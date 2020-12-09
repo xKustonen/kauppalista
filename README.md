@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kaupassa käymiseen, koska olen hajamielinen
+Kauppalista kaupassa käymiseen.
